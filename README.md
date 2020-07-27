@@ -5,7 +5,9 @@ Srishti 2020
 
 The aim of the project is to create a bot which can sketch any Picture on a Wall.  
 
-
+<p align="center">
+	<img src="https://github.com/hrshee/Wall-Art-1/blob/master/image/CAD%20view.jpeg">
+</p>
 
 
 ## Materials Required
