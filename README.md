@@ -33,16 +33,40 @@ The aim of the project is to create a bot which can sketch any Picture on a Wall
 
 ## Mechanical Aspect Of Design
 
-1.  It's a 3 wheeled drive bot which can sketch any curve given to it. 
-2.  The chasis is made of wooden square plate having 3 holes for Caster wheels in design. 
-3.  Motor and the pulleys are attached together with couplings. 
-4.  wheels are placed as 2 in front half and 1 in back half of chasis. 
-5.  Pen is placed in middle with the help of 3d printed cylindrical part.
+### Chasis
+  It is an sauare shaped base, 3 caster wheeled  drive bot that can be easily manufactured. 
+
+### Material
+  The chassis is made Wood. It reduces the overall weight of the bot and hence reducing the load on motors.
+
+### Motor Assembly
+  Two Stepper motors are used, to get the required force. The shaft of the motor is passed through printed couplings. 
+  And the servo motor is attached at the middle of the chasis.
+
+### Pen holder
+  It is a 3D printed cylindrical holder that is placed at the center of the chassis. It can hold only one pen at a time and the size of the holder is fixed and hence the pen diameter is fixed.
+
+### Wings
+  For the ease of the traversal of the thread two wings are attched at the front side of the bot.They are attached to the chasis.
 
 ## Electronics Aspect Of Design
 
-1.  Stepper motors are controlled by Cytron motor drivers which is powered directly from  .
+### Code Algorithm
+  All actuations are done with appropriate velocities which are calculated by the gcode line.
+  after uploading the arduino code upload the gcode file through the processing software through the same port.
 
+### Micro-controller
+  Arduino Mega 2560 R3 is used as the microcontroller board.
+
+### Actuators
+  Stepper motors are used for traversal actuation of bot which is controlled by Cytron motor driver.
+  servo motor ae used for the traversal of the Pen Holder.
+
+### Power Source
+ *  11.1V LiPo battery is used as the power source.
+ * Motors are directly powered from the battery.
+ * Arduino Mega board is powered with ac to DC converter .
+ 
 ## Cost Structure 
 
 |Components|Cost(INR)|
@@ -79,7 +103,7 @@ Plotting any Image on the smooth wall.
 2. Adithya raj 
 3. Chiradeep
 4. [Hrusheekesh](https://github.com/hrshee)<br>
-5. Vaibhav
+5. [Vaibhav](https://github.com/vaibhavg3107)<br>
 6. Vivek 
 
 ## Mentors
