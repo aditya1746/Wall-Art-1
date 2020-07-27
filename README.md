@@ -46,38 +46,43 @@ The aim of the project is to create a bot which can sketch any Picture on a Wall
 |Components|Cost(INR)|
 |----------|---------|
 |Wheels|4*40|
-|Stepper motors|2*|
-|Servo motor|1*|
-|Motor Drive|2*|
+|Stepper motors|2*1250|
+|Servo motor|1*100|
+|Motor Drive|2*1500|
 |Arduino Mega|1*650|
 |Bread Board|1*100|
-|Battery|1*|
-|wodden square plate|3*|
-|couplins|2*|
-|**Total**|**11**|
+|Battery|1*1400|
+|wodden square plate|3*20|
+|couplins|2*150|
+|**Total**|**8720**|
+
+
 ## Applications
 
-Plotting any Image on any scale of canvas.
+Plotting any Image on the smooth wall.
 
 ## Limitations
 
 *  Particular size of pen can only be used.
 *  It can plot only in single colour.
+*  it cannot draw on rough surfaces.
 
 ## Future Improvements
 
-*  Attaching a servo motor for rising pen up to plot discontinuous curves.
+*  install a spring in the pen system so that it can draw on rough surfaces to.
+*  installation of bluetooth .
 
 ## Team Members
-1. Adithya 
+1. [Adithya](https://github.com/dsnav12345)<br> 
 2. Adithya raj 
 3. Chiradeep
-4. Hrusheekesh
+4. [Hrusheekesh](https://github.com/hrshee)<br>
 5. Vaibhav
 6. Vivek 
+
 ## Mentors
 
-1.Anu Shree  
-2.Avdesh Rana  
-## References
+1. [Annushree](https://github.com/annushree21)<br>
+2. [Avdesh Kumar Ranwa](https://www.linkedin.com/in/avdesh-kumar-ranwa-a43610187/)<br>
+
  
