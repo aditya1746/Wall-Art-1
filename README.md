@@ -26,7 +26,7 @@ The aim of the project is to create a bot which can sketch any Picture on a Wall
 ## Work Flow
  <p align="center">
   <img src=https://github.com/hrshee/Wall-Art-1/blob/master/image/work%20flow.png>
-  Team MaRS @Inter IIT Technical Meet 8.0
+  
 </p>
 
 ## Mechanical Aspect Of Design
