@@ -3,12 +3,17 @@ Srishti 2020
 
 ## Abstract
 
-The aim of the project is to create a bot which can sketch any Picture on a Wall.  
+The aim of the project is to create a bot which can sketch any Picture on a Wall.
 
 <p align="center">
-	<img src="https://github.com/hrshee/Wall-Art-1/blob/master/image/CAD%20view.jpeg">
+  <img src="https://github.com/hrshee/Wall-Art-1/blob/master/images%20and%20videos/images/CAD%20view.jpeg?raw=true">
 </p>
 
+
+
+## Motivation
+There are so many bots are there to darw an image on the ground or on the paper but there is no bot which can draw on the wall.
+so we tried to construct this wall-art bot.
 
 ## Materials Required
 
@@ -25,11 +30,14 @@ The aim of the project is to create a bot which can sketch any Picture on a Wall
 * shuttle bat string.
 * 3x Caster wheels
 
+
 ## Work Flow
  <p align="center">
-  <img src=https://github.com/hrshee/Wall-Art-1/blob/master/image/work%20flow.png>
+  <img src="https://github.com/hrshee/Wall-Art-1/blob/master/images%20and%20videos/images/work%20flow.png?raw=true">
   
 </p>
+
+
 
 ## Mechanical Aspect Of Design
 
@@ -110,5 +118,10 @@ Plotting any Image on the smooth wall.
 
 1. [Annushree](https://github.com/annushree21)<br>
 2. [Avdesh Kumar Ranwa](https://www.linkedin.com/in/avdesh-kumar-ranwa-a43610187/)<br>
+
+## References
+*  
+*  processing code to send the G-code - https://forum.arduino.cc/index.php?topic=465098.0.
+*  arduino to read the G-code - https://forum.arduino.cc/index.php?topic=546983.0.
 
  
