@@ -108,7 +108,7 @@ Plotting any Image on the smooth wall.
 
 ## Team Members
 1. [Adithya](https://github.com/dsnav12345)<br> 
-2. [Adithya raj](https://github.com/aditya1746)<br> 
+2. [Aditya raj](https://github.com/aditya1746)<br> 
 3. [Chiradeep](http://github.com/chiradeepsaharoy)<br>
 4. [Hrusheekesh](https://github.com/hrshee)<br>
 5. [Vaibhav](https://github.com/vaibhavg3107)<br>
